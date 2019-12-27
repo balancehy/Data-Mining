@@ -1,4 +1,4 @@
-# density-based and hierarchical_cluster README 
+## Density-based, hierarchical_cluster and Kmeans
 
 ### Requirement
 
@@ -18,7 +18,7 @@ $ python3 kmeans.py <datapath>
 
 Then it will pop up plot windows and results
 
-# GMM and spectral clustering README
+## GMM and Spectral Clustering
 
 ### Procedure
 
@@ -28,6 +28,7 @@ Then it will pop up plot windows and results
 3. run code from ide or command line
 ```
 
+## Parameter setting
 ### Parameter for GMM
 
 ```

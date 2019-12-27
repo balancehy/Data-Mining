@@ -13,8 +13,13 @@ filepath is the full path of data, whose columns are gene's attributes, rows are
 ## Sample of generated rules
 
 {G54_Up}->{G24_Down}
+
 {G54_Up}->{G88_Down}
+
 {G59_Up,G72_Up}->{G82_Down}
+
 {G59_Up,G72_Up}->{G96_Down}
+
 {G59_Up,G82_Down}->{G72_Up}
+
 {G59_Up,G96_Down}->{G72_Up}
